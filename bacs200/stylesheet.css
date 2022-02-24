@@ -19,7 +19,7 @@ header h3 {
 }
 img {
 	background-color: transparent;
-	margin-right: -60pt
+	margin-right: -75pt
 }
 main h2 {
 	font-size: 35pt;
@@ -35,13 +35,11 @@ footer p {
 	font-size: 10pt
 }
 main ul {
-	font-size: 15pt
+	font-size: 15pt;
 }
 #reward {
 	float: right;
 	border: 2px;
-	margin-top: 200pt;
-	margin-left: -250pt;
 }
 main p {
 	font-size: 15pt
