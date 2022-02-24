@@ -19,8 +19,6 @@ header h3 {
 }
 img {
 	background-color: transparent;
-	margin-right: -75pt;
-	padding: none
 }
 main h2 {
 	font-size: 35pt;
@@ -40,8 +38,6 @@ main ul {
 }
 #reward {
 	float: right;
-	border: 2px;
-	padding: none;
 }
 main p {
 	font-size: 15pt
