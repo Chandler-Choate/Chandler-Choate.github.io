@@ -38,8 +38,18 @@ main ul {
 }
 #reward {
 	float: right;
+	margin-right: 100pt;
+	margin-top: 200pt;
+	margin-left: -250pt;
 }
 main p {
-	font-size: 15pt
+	font-size: 25pt;
+	font-weight: bolder;
+	margin-top: -25pt
+}
+main h4 {
+	font-size:35pt;
+	margin: none;
+	
 }
 
