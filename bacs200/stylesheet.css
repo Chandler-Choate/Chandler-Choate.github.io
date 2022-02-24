@@ -6,10 +6,22 @@
 	padding-left: 0;
 	background-color:antiquewhite;
 }
-h1 {
+header h1 {
 	font-size: 40pt;
+	border-bottom: double;
+	border-top: double;
+	font-weight: bolder 
 }
-img{
+img {
 	background-color: transparent
+}
+main h2 {
+	font-size: 35pt;
+}
+main ul {
+	font-size: 15pt
+}
+main h3 {
+	font-size: 23pt
 }
 
