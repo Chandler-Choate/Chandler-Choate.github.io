@@ -1,13 +1,38 @@
 * {
 	background-color: white;
-	color:black
+	color:black;
+	text-align: left
 }
-header{
-	background-color: white;
+header {
+	background-color:white
 }
 header h1 {
 	text-align: center;
-	font-weight: Bold;
+	font-weight: bolder;
 	color:#000000;
 	background-color:white
+}
+header h2 {
+	font-size: 15pt;
+	text-align: left;
+}
+h2+p::first-letter {
+	color: black;
+	background-color:white;
+	border-radius:none;
+	box-shadow:none;
+	padding:0;
+	margin-right:0;
+	float: inherit;
+	font-size: 12pt
+}
+main h2{
+	font-weight: bold;
+}
+p{
+	font-size: 12pt; 
+}
+footer a{
+	color:#7C13A4;
+	padding:0px;
 }
