@@ -2,8 +2,12 @@
 	background-color: white;
 	color:black
 }
+header{
+	background-color: white;
+}
 header h1 {
 	text-align: center;
 	font-weight: Bold;
-	color:#000000
+	color:#000000;
+	background-color:white
 }
