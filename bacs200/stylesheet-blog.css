@@ -1,10 +1,12 @@
 * {
 	background-color: white;
 	color:black;
-	text-align: left
+	text-align: left; 
 }
 header {
-	background-color:white
+	background-color:white;
+	padding:0px;
+	margin:0px;
 }
 header h1 {
 	text-align: center;
@@ -16,6 +18,10 @@ header h2 {
 	font-size: 15pt;
 	text-align: left;
 }
+header p{
+	font-size: 12pt;
+	padding:0px;
+}
 h2+p::first-letter {
 	color: black;
 	background-color:white;
@@ -26,13 +32,22 @@ h2+p::first-letter {
 	float: inherit;
 	font-size: 12pt
 }
+main{
+	padding:0px;
+	margin:0px;
+}
 main h2{
 	font-weight: bold;
+	padding:0px;
+	margin:0px;
 }
 p{
 	font-size: 12pt; 
 }
 footer a{
 	color:#7C13A4;
+	padding:0px;
+}
+section {
 	padding:0px;
 }
