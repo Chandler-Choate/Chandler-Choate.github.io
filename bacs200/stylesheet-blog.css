@@ -22,6 +22,11 @@ header p{
 	font-size: 12pt;
 	padding:0px;
 }
+header img{
+	height: 65%;
+	width: 65%;
+	text-align: center;
+}
 h2+p::first-letter {
 	color: black;
 	background-color:white;
