@@ -23,9 +23,14 @@ header p{
 	padding:0px;
 }
 header img{
-	height: 65%;
-	width: 65%;
+	height: 40%;
+	width: 40%;
 	text-align: center;
+}
+header div{
+	text-align: center;
+	padding: 0px;
+	margin:0px;
 }
 a {
 	padding:0px;
