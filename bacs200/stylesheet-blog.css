@@ -1,7 +1,8 @@
 * {
 	background-color:white;
 	color:black;
-	text-align: left; 
+	text-align: left;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
 }
 header {
 	background-color:white;
@@ -56,7 +57,9 @@ main h2{
 	margin:0px;
 }
 p{
-	font-size: 12pt; 
+	font-size: 12pt;
+	padding:0px;
+	margin:10px;
 }
 footer a{
 	color:#7C13A4;
