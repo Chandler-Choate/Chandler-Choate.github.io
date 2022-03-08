@@ -1,3 +1,12 @@
 *{
 	background-color: oldlace;
 }
+.colheader{
+	column-width: 300px; 
+	font-size: 20pt; 
+	font: bold;
+}
+.rowheader{
+	row-width: 300px; 
+	font-size: 15pt
+}
