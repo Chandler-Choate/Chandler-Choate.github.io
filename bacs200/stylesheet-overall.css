@@ -5,11 +5,19 @@
 	column-width: 300px; 
 	font-size: 20pt; 
 	font: bold;
+	border:solid;
 }
 .rowheader{
 	row-width: 300px; 
-	font-size: 15pt
+	font-size: 15pt;
+	border:solid;
 }
 table img{
 	height: 100px;
+}
+table{
+	border:solid;
+}
+td{
+	border:solid;
 }
