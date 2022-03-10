@@ -56,5 +56,8 @@ main p {
 main h4 {
 	font-size:35pt;
 	margin: none;
+}
+ol{
+	list-style-type:circle;
 	
 }
