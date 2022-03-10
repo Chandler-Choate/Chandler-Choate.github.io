@@ -5,7 +5,11 @@
 	list-style-position: inside;
 	padding-left: 0;
 	background-color:antiquewhite;
-	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif" 
+	font-family: 'Rye-Regular' 
+}
+@font-face{
+	font-family: 'Rye-Regular';
+	src:url("Rye-Regular.ttf")
 }
 header h1 {
 	font-size: 40pt;
