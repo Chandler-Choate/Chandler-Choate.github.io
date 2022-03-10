@@ -1,5 +1,10 @@
 *{
 	background-color: oldlace;
+	font-family:"Raleway-Variable"
+}
+@font-face{
+	font-family:'Raleway-Variable';
+	src:url("Raleway-VariableFont_wght.ttf");
 }
 .colheader{
 	column-width: 300px; 
