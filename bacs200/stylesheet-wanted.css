@@ -39,6 +39,10 @@ footer p {
 	font-size: 10pt;
 	font-weight: lighter;
 }
+footer {
+	border-bottom: double;
+	border-top: double;
+}
 main ul {
 	font-size: 15pt;
 }
