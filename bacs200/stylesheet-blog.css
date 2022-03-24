@@ -68,3 +68,10 @@ footer a{
 section {
 	padding:0px;
 }
+h3{
+	background-color:oldlace;
+	border: none;
+	font-size: 14pt;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	text-decoration-line: none
+}
