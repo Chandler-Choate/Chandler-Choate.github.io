@@ -6,6 +6,10 @@
 	font-family:'Raleway-Variable';
 	src:url("Raleway-VariableFont_wght.ttf");
 }
+@font-face{
+	font-family:'Lobster-Regular';
+	src:url("Lobster-Regular.ttf");
+}
 .colheader{
 	column-width: 300px; 
 	font-size: 20pt; 
@@ -33,4 +37,8 @@ iframe{
 }
 h1{
 	background-color: oldlace;
+	font-family: "Lobster-Regular";
+	font-size: 45px;
+	text-align: center;
+	
 }
