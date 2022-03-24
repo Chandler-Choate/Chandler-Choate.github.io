@@ -40,5 +40,7 @@ h1{
 	font-family: "Lobster-Regular";
 	font-size: 65px;
 	text-align: center;
-	
+}
+body div{
+	text-align: center;
 }
