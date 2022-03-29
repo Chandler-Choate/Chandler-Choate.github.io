@@ -1,6 +1,9 @@
-div{
-	float: center;
+*{
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif"
 }
-img{
-	height: 200px;
+header img{
+	height: 100px;
+}
+div{
+	text-align:center;
 }
