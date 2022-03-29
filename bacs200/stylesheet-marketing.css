@@ -6,7 +6,13 @@ header img{
 }
 div{
 	text-align:center;
+	background-image: url("redwood.jpg");
+	height: 150px;
+	color: white;
 }
 footer p{
 	text-align:center;
+}
+main{
+	text-align:center
 }
