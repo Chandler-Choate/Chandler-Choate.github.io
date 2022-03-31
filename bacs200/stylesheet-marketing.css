@@ -22,3 +22,6 @@ main p{
 	margin-left: 250px;
 	margin-right: 250px;
 }
+main img{
+	margin: 10px;
+}
