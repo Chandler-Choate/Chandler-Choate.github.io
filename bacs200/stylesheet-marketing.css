@@ -16,3 +16,7 @@ footer p{
 main{
 	text-align:center
 }
+main p{
+	margin-left: 250px;
+	margin-right: 250px;
+}
