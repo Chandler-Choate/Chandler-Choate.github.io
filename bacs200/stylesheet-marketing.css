@@ -6,9 +6,10 @@ header img{
 }
 div{
 	text-align:center;
-	background-image: url("puppyingrass.jpg");
+	background-image: url("redwood.jpg");
 	height: 150px;
-	width: 100%
+}
+div h1{
 	color: white;
 }
 footer p{
