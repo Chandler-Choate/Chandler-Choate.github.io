@@ -25,3 +25,6 @@ main p{
 main img{
 	margin: 10px;
 }
+section{
+	float: right
+}
