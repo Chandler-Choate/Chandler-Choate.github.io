@@ -61,4 +61,11 @@ main h4 {
 	font-size:35pt;
 	margin: none;
 }
-
+@media all and (max-width: 600px){
+	#reward {
+	float: right;
+	margin-right: 100pt;
+	margin-top: 200pt;
+	margin-left: -250pt;
+}
+}
