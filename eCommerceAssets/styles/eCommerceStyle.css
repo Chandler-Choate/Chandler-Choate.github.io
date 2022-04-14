@@ -41,11 +41,10 @@ header {
 #offer {
 	font-family: 'Montserrat', sans-serif;
 	clear: both;
-	background-color: rgba(246,246,246,1.00);
 	color: rgba(146,146,146,1.00);
 	padding-left: 115px;
-	padding-top: 57px;
-	padding-bottom: 57px;
+	padding-bottom: 10px;
+	border: double
 }
 /* Main content of the site */
 #content {
@@ -169,7 +168,7 @@ header {
 	float: left;
 	padding-left: 4%;
 	padding-right: 2%;
-	color: rgba(255,255,255,1.00);
+	color: rgba(208,207,207,1.00);
 	text-align: justify;
 }
 /* Links in footer */
