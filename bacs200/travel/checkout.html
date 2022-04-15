@@ -6,12 +6,66 @@
 <link href="bootstrap-4.4.1.css" rel="stylesheet">
 <link href="stylesheet-overall.css" rel="stylesheet" type="text/css">
 </head>
-	<header>
-		<h1>Checkout Form</h1>
-	</header>
-
+	
 <body>
-	<form class="needs-validation" novalidate="">
+	<div class="container">
+  <main>
+    <div class="py-5 text-center">
+      <h1>Checkout Form</h1>
+      <p class="lead">Please complete each field</p>
+    </div>
+
+    <div class="row g-5">
+      <div class="col-md-5 col-lg-4 order-md-last">
+        <h4 class="d-flex justify-content-between align-items-center mb-3">
+          <span class="text-primary">Your cart</span>
+          <span class="badge bg-primary rounded-pill">3</span>
+        </h4>
+        <ul class="list-group mb-3">
+          <li class="list-group-item d-flex justify-content-between lh-sm">
+            <div>
+              <h6 class="my-0">Package Choosen</h6>
+              <small class="text-muted">Brief description of package</small>
+            </div>
+            <span class="text-muted">$799.00</span>
+          </li>
+          <li class="list-group-item d-flex justify-content-between lh-sm">
+            <div>
+              <h6 class="my-0">Additional Activities</h6>
+              <small class="text-muted">Brief description of activities</small>
+            </div>
+            <span class="text-muted">$85.00</span>
+          </li>
+          <li class="list-group-item d-flex justify-content-between lh-sm">
+            <div>
+              <h6 class="my-0">Exclusive Offers</h6>
+              <small class="text-muted">Brief description of added offers</small>
+            </div>
+            <span class="text-muted">$52.00</span>
+          </li>
+          <li class="list-group-item d-flex justify-content-between bg-light">
+            <div class="text-success">
+              <h6 class="my-0">Promo code</h6>
+              <small>EXAMPLECODE</small>
+            </div>
+            <span class="text-success">−$25.00</span>
+          </li>
+          <li class="list-group-item d-flex justify-content-between">
+            <span>Total (USD)</span>
+            <strong>$911.00</strong>
+          </li>
+        </ul>
+
+        <form class="card p-2">
+          <div class="input-group">
+            <input type="text" class="form-control" placeholder="Promo code">
+            <button type="submit" class="btn btn-secondary">Redeem</button>
+          </div>
+        </form>
+      </div>
+      <div class="col-md-7 col-lg-8">
+        <h4 class="mb-3">Billing address</h4>
+        <form class="needs-validation" novalidate="">
           <div class="row g-3">
             <div class="col-sm-6">
               <label for="firstName" class="form-label">First name</label>
@@ -162,9 +216,20 @@
 
           <button class="w-100 btn btn-primary btn-lg" type="submit">Continue to checkout</button>
         </form>
-	<section>
-		<form class="needs-validation">
-		</form>
-	</section>
+      </div>
+    </div>
+  </main>
+
+  <footer class="my-5 pt-5 text-muted text-center text-small">
+    <p class="mb-1">© 2022 CC Travel</p>
+    <ul class="list-inline">
+		<li class="list-inline-item"><a href="../../index.html">Home</a></li>
+      <li class="list-inline-item"><a href="#">Privacy</a></li>
+      <li class="list-inline-item"><a href="#">Terms</a></li>
+      <li class="list-inline-item"><a href="#">Support</a></li>
+    </ul>
+  </footer>
+</div>
+	
 </body>
 </html>
